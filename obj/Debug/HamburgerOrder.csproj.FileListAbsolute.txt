@@ -1,0 +1,11 @@
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.csproj.AssemblyReference.cache
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.HamburgerOrder.resources
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.Properties.Resources.resources
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.csproj.GenerateResource.cache
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.csproj.CoreCompileInputs.cache
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\bin\Debug\HamburgerOrder.exe.config
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\bin\Debug\HamburgerOrder.exe
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\bin\Debug\HamburgerOrder.pdb
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.exe
+C:\Users\gunay\source\repos\HamburgerOrder\HamburgerOrder\obj\Debug\HamburgerOrder.pdb
